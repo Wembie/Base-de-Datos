@@ -1,0 +1,1 @@
+SELECT name, birth AS "Fecha Cumpleaños" FROM users WHERE age BETWEEN 16 AND 22;

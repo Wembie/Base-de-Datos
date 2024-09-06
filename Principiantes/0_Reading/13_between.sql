@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age BETWEEN 16 AND 22;
